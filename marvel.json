@@ -1,0 +1,21 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"marvel"},
+{"type":"table","name":"equipes","database":"marvel","data":
+[
+{"id":"1","nom":"Avengers"},
+{"id":"2","nom":"Les 4 fantastiques"}
+]
+}
+,{"type":"table","name":"personnages","database":"marvel","data":
+[
+{"id":"1","nom":"Spiderman","description":"Peter Parker, orphelin à l'âge de six ans, est élevé par son oncle et sa tante, Benjamin et May Parker. Peter est mordu par une araignée radioactive à la suite d'une expérience. Il va alors développer des super-pouvoirs, dont une force surhumaine, une grande agilité, et la capacité de \"coller\" aux parois.\r\n","photo":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/2\/21\/Web_of_Spider-Man_Vol_1_129-1.png","equipe_id":"Avengers"},
+{"id":"13","nom":"","description":null,"photo":null,"equipe_id":null},
+{"id":"14","nom":"","description":null,"photo":null,"equipe_id":null},
+{"id":"16","nom":"Spiderman","description":"Peter Parker !","photo":"https:\/\/t0.gstatic.com\/licensed-image?q=tbn:ANd9GcTDaXXqVAgsvQXvzv-q_c8np9EJtzBQamO5xT3mIAwKYWtPCCEZJk6VdLzyNQ5VKJtv","equipe_id":null},
+{"id":"17","nom":"Spiderman","description":"Peter Parker, orphelin à l'âge de six ans, est élevé par son oncle et sa tante, Benjamin et May Parker. Peter est mordu par une araignée radioactive à la suite d'une expérience. Il va alors développer des super-pouvoirs, dont une force surhumaine, une grande agilité, et la capacité de \"coller\" aux parois.","photo":"https:\/\/t0.gstatic.com\/licensed-image?q=tbn:ANd9GcTDaXXqVAgsvQXvzv-q_c8np9EJtzBQamO5xT3mIAwKYWtPCCEZJk6VdLzyNQ5VKJtv","equipe_id":"1"},
+{"id":"19","nom":"Hulk","description":"Outre sa force extraordinaire, Hulk possède une résistance incroyable. Sa peau verte, renforcée par les rayons gamma et qui lui ont donné sa couleur, lui permet de résister à des chocs et des coups extrêmement violents.","photo":"https:\/\/a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com\/images\/characters\/large\/800\/The-Hulk.The-Incredible-Hulk.webp","equipe_id":"1"},
+{"id":"20","nom":"Batman","description":"Batman est un superhéros : c'est un personnage des bandes dessinées américaines qui lutte pour le Bien et la justice. La vraie identité de Batman est Bruce Wayne, un riche héritier. Il habite à Gotham, et souhaite combattre la criminalité.","photo":"https:\/\/t1.gstatic.com\/licensed-image?q=tbn:ANd9GcQavfSfyOVYO54wkFq1cV0yguHfZSUiYwmiGvtdlDDav_wKZYsyy9NPBk952R2zXNSs","equipe_id":"1"}
+]
+}
+]
